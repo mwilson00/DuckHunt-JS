@@ -5,7 +5,7 @@ import Utils from '../libs/utils';
 import Character from './Character';
 import sound from './Sound';
 
-const DEATH_ANIMATION_SECONDS = 0.6;
+const DEATH_ANIMATION_SECONDS = 6;
 const RANDOM_FLIGHT_DELTA = 300;
 
 class Duck extends Character {
