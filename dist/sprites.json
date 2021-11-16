@@ -378,11 +378,11 @@
 },
 "scene/tree/0.png":
 {
-	"frame": {"x":0,"y":393,"w":173,"h":260},
+	"frame": {"x":0,"y":393,"w":255,"h":260},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":260},
-	"sourceSize": {"w":173,"h":260}
+	"spriteSourceSize": {"x":0,"y":0,"w":255,"h":260},
+	"sourceSize": {"w":255,"h":260}
 }},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
